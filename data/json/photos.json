@@ -1,0 +1,89 @@
+[
+    {
+        "tipo": "Outras",
+        "source": "1.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "2.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "3.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "4.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "5.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "6.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "7.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "8.jpg",
+        "index": 1
+    },
+    {
+        "tipo": "Outras",
+        "source": "9.jpg",
+        "index": 1
+    },
+    {"tipo":"Rosto", "source": "1.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "2.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "3.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "4.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "5.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "6.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "7.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "8.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "9.jpg", "index": "2"}, 
+    {"tipo":"Rosto", "source": "10.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "11.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "12.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "13.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "14.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "15.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "16.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "17.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "18.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "19.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "20.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "21.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "22.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "23.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "24.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "25.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "26.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "27.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "28.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "29.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "30.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "31.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "32.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "33.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "34.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "35.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "36.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "37.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "38.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "39.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "40.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "41.jpg", "index": "2"} ,
+    {"tipo":"Rosto", "source": "42.jpg", "index": "2"}
+]
